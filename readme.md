@@ -17,7 +17,7 @@ Provider: [scrimba](https://scrimba.com)
     * If add to > 12, then some siblings will wrap to next line
 * "Breakpoints": use col-<bp>, where <bp> is  extra small (just col), col-smp, col-md-, col-lg-, col-xl- 
     * Each bp is defined as the width where horizontal layout switches to verticle layout
-    * see [bootstrap docs](https://getbootstrap.com/docs/4.0/layout/grid/) for breakpoint widths
+    * see [bootstrap 'Grid System' docs](https://getbootstrap.com/docs/4.0/layout/grid/) for breakpoint widths
 * "Set Sizes and Breakpoints": use col-<bp>-<x> to combine set sizes and breakpoints
 * "No Gutters": adding no-gutters class removes padding inside columns
 * "Offsetting Columns": adding an offset class moves a column over leaving a gap defined by the offset
