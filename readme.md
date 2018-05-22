@@ -22,3 +22,7 @@ Provider: [scrimba](https://scrimba.com)
 * "No Gutters": adding no-gutters class removes padding inside columns
 * "Offsetting Columns": adding an offset class moves a column over leaving a gap defined by the offset
 * "Multiple Breakpoints": can add classes for multiple breapoints to have different layouts for different widths.  For example, want 2x2 grid between sm and md breakpoints, then 4-1 bigger than md
+
+### Responsive Navbar
+* see 03_responsive-navbar.htm
+* navbar-light bg-light: set the overall nav bar color and background color
