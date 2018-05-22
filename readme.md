@@ -25,4 +25,11 @@ Provider: [scrimba](https://scrimba.com)
 
 ### Responsive Navbar
 * see 03_responsive-navbar.htm
-* navbar-light bg-light: set the overall nav bar color and background color
+* nav.navbar-light nav.bg-light: set the overall nav bar color and background color
+* ul.navbar-nav: established the menu selections
+* ul.ml-auto: margin left auto - makes the menu right aligned
+* li.navbar-item: defines menu items
+* a.nav-link: defines menu anchor link
+* div.collapse div.navbar-collapse: sets up collapsable area - menu disappears below nav.navbar-expand-lg size
+* button.navbar-toggler: opens and closes the menu when below the nav.navbar-expand-lg breakpoint
+* span.navbar-toggler-icon: the hamburger menu icon for the toggle button
